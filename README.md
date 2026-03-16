@@ -53,5 +53,5 @@ Flutter / Mobile Developer with **3+ years of commercial experience** building m
 
 ## 📫 Contact
 
-- Telegram: **@ildan_ka**
-- Email: **ildanlik2002@gmail.com**
+- 💬 Telegram: [@ildan_ka](https://t.me/ildan_ka)
+- 📧 Email: ildanlik2002@gmail.com
