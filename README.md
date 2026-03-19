@@ -43,14 +43,6 @@ Flutter / Mobile Developer with **3+ years of commercial experience** building m
 
 ---
 
-## 📚 Currently focused on
-
-- Improving **Flutter architecture skills**
-- Building production-style portfolio projects
-- Learning more about **backend development**
-
----
-
 ## 📫 Contact
 
 - 💬 Telegram: [@ildan_ka](https://t.me/ildan_ka)
